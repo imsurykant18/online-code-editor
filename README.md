@@ -3,9 +3,9 @@
 A powerful, web-based code editor built with React, Node.js, and the Monaco Editor (the engine that powers VS Code). T
 his application allows you to write, compile, and run code in multiple languages directly from your browser, complete with standard input support and a sleek, theme-able interface.
 
-![Project Screenshot](./frontend/public/project_screenshot)
+![Project Screenshot](./frontend/public/project_screenshot/)
 *(Note: You will need to take a screenshot of your finished application and save it as `project_screenshot.png` 
-inside the `frontend/public/project_screenshot` folder for the image above to display correctly.)*
+inside the `frontend/public/project_screenshot/` folder for the image above to display correctly.)*
 
 ## Features
 
