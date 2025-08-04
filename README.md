@@ -5,7 +5,7 @@ his application allows you to write, compile, and run code in multiple languages
 
 ![Project Screenshot](./frontend/public/project_screenshot/project_screenshot.png)
 *(Note: You will need to take a screenshot of your finished application and save it as `project_screenshot.png` 
-inside the `frontend/public/project.screenshot` folder for the image above to display correctly.)*
+inside the `frontend/public/project_screenshot` folder for the image above to display correctly.)*
 
 ## Features
 
